@@ -1,5 +1,5 @@
 # MyProjects.demo
-This is my own git repository
+This is my own git repository.
 <br>
-my first git repositories 
+my first git repositories .
 
